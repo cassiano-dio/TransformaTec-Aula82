@@ -45,7 +45,7 @@ public class ExpenseStream {
         expenseList.add(new Expense(3, "Janta", 150.00,"Extra","17072022"));
         expenseList.add(new Expense(4, "Farmacia", 450.00,"Saude","18072022"));
         expenseList.add(new Expense(5, "Carro", 850.00,"Extra","19072022"));
-        expenseList.add(new Expense(6, "Dentisa", 450.00,"Saude","20072022"));
+        expenseList.add(new Expense(6, "Dentista", 450.00,"Saude","20072022"));
 
         // for (Expense expense : expenseList) {
         //     System.out.println(expense.getName());
